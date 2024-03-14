@@ -165,11 +165,8 @@ section#search-section {
     }
 }
 
-/*-----More information tiles-----*/
-
-.info-card {
-    box-shadow: $box-shadow;
-    border-radius: $border-radius;
+.collapse-tile:first-of-type {
+    margin-top: $spacer * 2;    
 }
 
 /*-----Top navigation-----*/
